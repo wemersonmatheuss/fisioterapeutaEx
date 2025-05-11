@@ -25,6 +25,10 @@ html {
     scroll-behavior: smooth;
 }
 
+body, html {
+    overflow-x: hidden;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     line-height: 1.6;
